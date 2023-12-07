@@ -14,8 +14,8 @@ Our team consist of 7 people.
 | Safabelle Vandhya Bachtiar | M006BSX1323 | Machine Learning |
 | M. Faisal Basri | C392BSY3895 | Cloud Computing |
 | Francis Wibisono | C010BSY3533 | Cloud Computing |
-| Aditrya Dwi Aprianto | A621BSY2424 | Mobile Developer |
-| Nafis Artaruna Putra | A120BSY2937 | Mobile Developer |
+| Aditrya Dwi Aprianto | A621BSY2424 | Mobile Development |
+| Nafis Artaruna Putra | A120BSY2937 | Mobile Development |
 
 
 ## Theme
