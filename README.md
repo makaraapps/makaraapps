@@ -17,6 +17,8 @@ Our team consist of 7 people.
 | Aditrya Dwi Aprianto | A621BSY2424 | Mobile Development |
 | Nafis Artaruna Putra | A120BSY2937 | Mobile Development |
 
+## Machine Learning
+Or if you want to see the detail about model development stuff, please check on [Machine Learning Repository](https://github.com/makaraapps/MachineLearning)
 
 ## Theme
 Tourism, Cultural, and Hospitality
