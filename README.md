@@ -24,3 +24,5 @@ Or if you want to see the detail about model development stuff, please check on 
 Tourism, Cultural, and Hospitality
 
 ## Refrences
+https://www.kompasiana.com/elnifatimah1429/61cbf13b9bdc406c40597772/hilangnya-pesona-makanan-tradisional-ditengah-arus-globalisasi#google_vignette
+https://panturanews.com/index.php/panturanews/baca/254074
