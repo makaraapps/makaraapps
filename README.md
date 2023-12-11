@@ -20,6 +20,12 @@ Our team consist of 7 people.
 ## Machine Learning
 Or if you want to see the detail about model development stuff, please check on [Machine Learning Repository](https://github.com/makaraapps/MachineLearning)
 
+## Mobile Development
+Or if you want to see the detail about mobile development stuff, please check on [Mobile Development Repository](https://github.com/makaraapps/Mobile-Development)
+
+## Cloud Computing
+Or if you want to see the detail about cloud development stuff, please check on [Cloud Computing Repository](https://github.com/makaraapps/Cloud-Computing)
+
 ## Theme
 Tourism, Cultural, and Hospitality
 
