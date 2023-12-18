@@ -40,8 +40,7 @@ Or if you want to see the detail about cloud development stuff, please check on 
 Tourism, Cultural, and Hospitality
 
 ## Project Plan
-See the project plan for a list of plan and the timeline for this project.
-[Project Plan Makara : ](https://docs.google.com/document/d/1qzsfI6CtzB7Xiz5WHQXnZxxUr5zAuQSQljIYkvF_BEs/edit?usp=sharing)
+See the [Project Plan Makara](https://docs.google.com/document/d/1qzsfI6CtzB7Xiz5WHQXnZxxUr5zAuQSQljIYkvF_BEs/edit?usp=sharing) for a list of plan and the timeline for this project.
 
 ## Refrences :
 Kompasiana - Hilangnya Pesona Makanan Tradisional di Tengah Arus Globalisasi (2021). Available at : 
@@ -49,3 +48,5 @@ https://www.kompasiana.com/elnifatimah1429/61cbf13b9bdc406c40597772/hilangnya-pe
 
 PanturaNews.com - Kurangnya Minat pada Makanan Tradisionsl (2020). Available at :
 https://panturanews.com/index.php/panturanews/baca/254074
+
+## License
