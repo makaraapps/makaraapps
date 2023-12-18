@@ -53,3 +53,4 @@ PanturaNews.com - Kurangnya Minat pada Makanan Tradisionsl (2020). Available at 
 https://panturanews.com/index.php/panturanews/baca/254074
 
 ## License 📌
+All Makara repositories are available under the [MIT License](https://github.com/makaraapps/makaraapps/blob/main/LICENSE)
