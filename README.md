@@ -28,10 +28,12 @@ Or if you want to see the detail about model development stuff, please check on 
 
 ## Mobile Development 📱
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+
 Or if you want to see the detail about mobile development stuff, please check on [Mobile Development Repository](https://github.com/makaraapps/Mobile-Development)
 
 ## Cloud Computing ☁️
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 Or if you want to see the detail about cloud development stuff, please check on [Cloud Computing Repository](https://github.com/makaraapps/Cloud-Computing)
 
 ## Theme
