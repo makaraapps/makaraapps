@@ -3,14 +3,17 @@ The recognition of cultural heritage, such as traditional food, is essential. It
 
 Based on this problem, that is the reason for us to make a Image recognition classification for Indonesia food called **MAKARA: Makanan Khas Nusantara** using the CNN algorithm to classify each Indonesia food. We hope this whill make it easier for tourist to know about Indonesian food varieties.
 
-## Features
+## Background 📑
+Makara is an android application that aims to introduce/enhance/develop the culinary culture of the archipelago, increase opportunities for the culinary industry in Indonesia, and of course make it easier for users, especially in finding local Indonesian specialities easily and provide more experience in using this culture-based application.
+
+## Features ✒️
 - Indonesian food image prediction
 - Articles that provide cultural descriptions of the food
 
-## Hello Everyone!👋
+## Hello Everyone!👋📢
 This is our repository for Product-Based Capstone Project.
 Our team consist of 7 people.
-## The Team
+## The Team 🧑‍💻
 |**Name**|**Bangkit ID**|**Learning Path**|
 |--------|--------------|-----------------|
 | Hana Lareina Aflah | M190BSX0196 | Machine Learning |
@@ -36,17 +39,17 @@ Or if you want to see the detail about mobile development stuff, please check on
 
 Or if you want to see the detail about cloud development stuff, please check on [Cloud Computing Repository](https://github.com/makaraapps/Cloud-Computing)
 
-## Theme
+## Theme 🌐
 Tourism, Cultural, and Hospitality
 
-## Project Plan
+## Project Plan ⏳
 See the [Project Plan Makara](https://docs.google.com/document/d/1qzsfI6CtzB7Xiz5WHQXnZxxUr5zAuQSQljIYkvF_BEs/edit?usp=sharing) for a list of plan and the timeline for this project.
 
-## Refrences :
+## Refrences 💭
 Kompasiana - Hilangnya Pesona Makanan Tradisional di Tengah Arus Globalisasi (2021). Available at : 
 https://www.kompasiana.com/elnifatimah1429/61cbf13b9bdc406c40597772/hilangnya-pesona-makanan-tradisional-ditengah-arus-globalisasi#google_vignette
 
 PanturaNews.com - Kurangnya Minat pada Makanan Tradisionsl (2020). Available at :
 https://panturanews.com/index.php/panturanews/baca/254074
 
-## License
+## License 📌
