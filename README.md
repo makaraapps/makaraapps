@@ -41,7 +41,7 @@ Tourism, Cultural, and Hospitality
 
 ## Project Plan
 See the project plan for a list of plan and the timeline for this project.
-(Project Plan Makara : )[https://docs.google.com/document/d/1qzsfI6CtzB7Xiz5WHQXnZxxUr5zAuQSQljIYkvF_BEs/edit?usp=sharing]
+[Project Plan Makara : ](https://docs.google.com/document/d/1qzsfI6CtzB7Xiz5WHQXnZxxUr5zAuQSQljIYkvF_BEs/edit?usp=sharing)
 
 ## Refrences :
 Kompasiana - Hilangnya Pesona Makanan Tradisional di Tengah Arus Globalisasi (2021). Available at : 
