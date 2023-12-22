@@ -37,7 +37,7 @@ Or if you want to see the detail about mobile development stuff, please check on
 ## Cloud Computing ☁️
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-Or if you want to see the detail about cloud development stuff, please check on [Cloud Computing Repository](https://github.com/fwibisono87/capstone-be-flask)
+Or if you want to see the detail about cloud development stuff, please check on [Cloud Computing Repository](https://github.com/makaraapps/Cloud-Computing)
 
 ## Theme 🌐
 Tourism, Cultural, and Hospitality
